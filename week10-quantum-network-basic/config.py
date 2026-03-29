@@ -1,0 +1,8 @@
+# config.py
+# ทำExtra ข้อความจะสลายตัวใน 10 วินาที 
+HOST = "127.0.0.1"
+BASE_PORT = 11000
+PEER_PORTS = [11001, 11002]
+BUFFER_SIZE = 1024
+TOKEN_EXPIRY = 10     
+UPDATE_INTERVAL = 5
