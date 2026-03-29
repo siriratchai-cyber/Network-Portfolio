@@ -58,8 +58,5 @@ ValueError ใน Week 7/8: อย่ากด Enter ว่างในช่อ
 
 Firewall Block: หากรันข้ามเครื่อง ให้ตรวจสอบว่า Firewall ยอมรับ Python หรือไม่
 
-🌟 Summary Table
-Week	Concept	Port Range	Key File
-1-3	Foundations	5000-6000	client.py, server.py
-4-6	Ad-Hoc/P2P	7000-9000	node.py, peer.py
+
 7-10	Adv. Routing	8000-11000	node.py
