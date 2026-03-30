@@ -40,6 +40,8 @@
 # 📜 Certificate
 - Cisco Packet Tracer  
 <img width="1999" height="1354" alt="image" src="https://github.com/user-attachments/assets/5e8258cb-0f85-48bb-ac14-a529de15683d" />
+- Checkpoint Exam
+<img width="1838" height="362" alt="image" src="https://github.com/user-attachments/assets/df0c6951-074c-417d-b8da-508d0a7ccf88" />
 
 
 ---
