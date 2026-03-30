@@ -34,7 +34,8 @@
 
 # 📜 Certificate
 - Cisco Packet Tracer  
-🔗 https://github.com/siriratchai-cyber/Network-Portfolio/blob/main/Certificate.pdf  
+<img width="1999" height="1354" alt="image" src="https://github.com/user-attachments/assets/5e8258cb-0f85-48bb-ac14-a529de15683d" />
+
 
 ---
 
