@@ -19,8 +19,13 @@
 | Assignment 4 | https://docs.google.com/document/d/1zKWLkZqVfRU9IsZHhQkBXyQ_wuV9Vcel80XuvjXMByw/edit?usp=sharing |
 
 ---
+## 💻 Network Programming (Week 1–10)
+ผลการเรียนรู้และการเขียนโปรแกรมเครือข่ายพื้นฐานงานเดี่ยว
 
-# 🧪 Lab 1–5
+* [คลิกเพื่อดูโฟลเดอร์งานทั้งหมด](./Personal%20Week1-10/)
+---
+
+# 🧪 GroupLab (Week1–5)
 
 | Lab | Description | Link |
 |----|------------|------|
