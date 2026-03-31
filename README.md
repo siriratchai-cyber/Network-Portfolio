@@ -44,7 +44,7 @@
 - Checkpoint Exam
 <img width="1838" height="362" alt="image" src="https://github.com/user-attachments/assets/df0c6951-074c-417d-b8da-508d0a7ccf88" />
 -CCNA
-<img width="1838" height="362" alt="image" src="https://github.com/siriratchai-cyber/Network-Portfolio/blob/main/CCNA_Introduction" />
+<img width="1838" height="362" alt="image" src="https://github.com/siriratchai-cyber/Network-Portfolio/blob/main/CCNA_Introduction.pdf" />
 
 
 ---
